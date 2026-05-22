@@ -1,4 +1,4 @@
-# Airborne-inspired Playdate Lua snippets
+# Airborne!-inspired Playdate Lua snippets
 
 These snippets are cleaned-up public examples inspired by reusable gameplay and rendering patterns developed while building Airborne! PD for Playdate.
 
