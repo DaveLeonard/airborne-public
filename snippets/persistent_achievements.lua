@@ -1,4 +1,4 @@
--- persistent_achievements.lua
+-- persistent_achievements.lua.
 -- Persistent achievements for Playdate games without taking ownership of your save file.
 -- Store the returned state inside your existing datastore table.
 
